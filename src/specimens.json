@@ -1,0 +1,28 @@
+{
+  "specimens": [
+    {
+      "id": "medical",
+      "title": "Specimen medical bill",
+      "filename": "medical-bill.png",
+      "blurb": "Fictional clinic invoice. Invented patient, public test card, example.com address.",
+      "suggestion": "What is the amount due, and what is it for?",
+      "text": "HARBOUR SPECIMEN CLINIC\nFICTIONAL DOCUMENT. NOT A REAL BILL.\n\nTax invoice DEMO-1042\nInvoice date: 02 Nov 2026\n\nPatient: Alex Specimen\nNRIC: S1234567D\nDate of birth: 15 March 1990\nPhone: +65 8123 4567\nEmail: alex.specimen@example.com\nAddress: 8 Placeholder Walk, Singapore 000000\n\nConsultation, demo          48.00\nPanel test, specimen        22.50\nAmount due, SGD             70.50\n\nTest card: 4242 4242 4242 4242\nAccount 001234567890"
+    },
+    {
+      "id": "lease",
+      "title": "Specimen lease page",
+      "filename": "lease-page.png",
+      "blurb": "Fictional tenancy page. Invented tenant and a documentation example IBAN.",
+      "suggestion": "What does clause 4 require of the tenant?",
+      "text": "SPECIMEN LETTINGS\nFICTIONAL TENANCY PAGE. NOT A REAL LEASE.\n\nTenant: Jordan Placeholder\nFIN: G1234567X\nDate of birth: 01/01/1988\nMobile: +65 9234 5678\nEmail: jordan.placeholder@example.com\n\nClause 4. Quiet hours\nKeep noise reasonable from 10 pm to 7 am.\nDo not paste this page into an open chatbot.\n\nLease start: 01/04/2026\nLease end: 31/03/2028\nRent per month, SGD: 1800.00\nDeposit account: 0099887766\nIBAN: GB82 WEST 1234 5698 7654 32"
+    },
+    {
+      "id": "payslip",
+      "title": "Specimen payslip",
+      "filename": "payslip.png",
+      "blurb": "Fictional pay advice. Invented employee and a specimen bank account.",
+      "suggestion": "What was deducted, and what is the net pay?",
+      "text": "SPECIMEN PTE. LTD.\nFICTIONAL PAYSLIP. NOT PROOF OF INCOME.\n\nEmployee: Casey Notaperson\nNRIC: T0123456G\nDate of birth: 1992-07-04\nEmail: casey.notaperson@example.com\nPhone: 8123 4567\n\nBank: Specimen Bank\nAccount number: 0102030405\n\nBasic salary, SGD         3200.00\nDemo allowance             150.00\nGross pay                 3350.00\nCPF, illustrative          640.00\nNet pay                   2710.00"
+    }
+  ]
+}
