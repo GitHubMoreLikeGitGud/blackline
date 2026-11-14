@@ -8,6 +8,8 @@ This is an entry for Google's [#BuildHybridAI](https://firebasehybridaihackathon
 
 **Try it:** [blackline-7c4df.web.app](https://blackline-7c4df.web.app). Reads on the device need desktop Chrome with Gemini Nano (see step 6 under Firebase setup). In a browser without Nano, the app sends a photo to the cloud only after you press its consent button. Three fictional specimens are built in.
 
+**Demo video:** [youtu.be/dSKjH0GC0zQ](https://youtu.be/dSKjH0GC0zQ) (2:18, captions, no voice).
+
 ## How hybrid inference is used
 
 Every model call goes through the Firebase AI Logic web SDK (`firebase/ai`), in hybrid mode, with the Gemini Developer API backend. There is no direct call to any other model API.
